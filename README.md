@@ -1,2 +1,3 @@
-# CodigoJava
-This is the repository assigned to the Java and JavaScript proyects
+<em> # Challenge Amigo Secreto </em>
+
+Este juego forma parte del primer challenge del programa Oracle y AluraLatam, 
